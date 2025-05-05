@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Vision
 - 🌱 I’m currently learning Machine Learnig
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me by Linkedin 
 
 <!---
 being-ayuuu/being-ayuuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
